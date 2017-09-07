@@ -1,8 +1,8 @@
-aws_access_key: <specify AWS Access Key>
-aws_secret_key: <specify AWS Secret Key>
-key_name: <specify private key name alias>
-aws_region: <specify aws region>
-vpc_id: <specify vpc id>
-cidr_ip: <specify cidr_ip>
+aws_access_key: AKIAJ6OUH2Q3CINL2GIQ
+aws_secret_key: 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
+key_name: newer-key
+aws_region: us-east-1
+vpc_id: vpc-c3556dba
+cidr_ip: 172.31.0.0/16
 ami_id: ami-6d1c2007
-instance_type: <specify intance_type>
+instance_type: t2.medium
